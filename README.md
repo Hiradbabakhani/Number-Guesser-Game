@@ -1,5 +1,16 @@
 # Number-Guesser-Game
 
+## Description
+This project is a game where users can guess a number..
+
+
+## How to Run?
+1. Clone down this repo, and cd into the project.
+2. Run `pip instal -r reqirements.txt` in your command line.
+3. Run `python Number_Guesser_Game` in your command line.
+
+
+
 # Objective
 
 Your task is to creat a game with the following features:
